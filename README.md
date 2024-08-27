@@ -1,1 +1,2 @@
+# Satistics-in-Python
 Собраны домашние задания по курсу "Статистика в Python" в рамках обучения по программе "Data Scientist: с нуля до middle".
